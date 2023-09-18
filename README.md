@@ -1,7 +1,7 @@
 # Data Scientist | Business Analyst
 
 ### Work Experience
-Data Scientist - Intern @ Bombardier Inc.
+Data Scientist - Intern @ Bombardier Inc. <br>
 Ph.D. Researcher @ HEC Montreal
 
 ### Education
