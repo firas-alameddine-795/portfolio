@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist | Business Analyst
 
 ### Education
 Data Science and Business Analytics, M.Sc.
