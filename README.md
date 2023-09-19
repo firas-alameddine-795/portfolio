@@ -1,4 +1,4 @@
-# Data Scientist | Business Analyst
+# Data Scientist | Data Analyst
 
 ### Work Experience
 Data Scientist - Intern @ Bombardier Inc. <br>
